@@ -1,2 +1,2 @@
 # test
-This is my school.h
+This is my school.
